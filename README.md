@@ -5,4 +5,5 @@ Files included:
 1. codebase (HPR+ GARCH-DCC)
 2. Final presentation deck (deck prepped by Tong Wu and David Hu, presented by all contributors)
 3. Final report (90% contributed by Jingyuan Feng)
-4. Final grade: A-
+
+Final grade: A-
