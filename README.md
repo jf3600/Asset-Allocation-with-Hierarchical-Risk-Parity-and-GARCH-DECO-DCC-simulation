@@ -4,4 +4,4 @@ This project examines some common solutions to the classical optimal portfolio c
 Files included: 
 1. codebase (HPR+ GARCH-DCC)
 2. Final presentation deck
-3. Final report (90% written by Jingyuan Feng)
+3. Final report (90% contributed by Jingyuan Feng)
